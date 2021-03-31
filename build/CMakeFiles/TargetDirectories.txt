@@ -1,0 +1,9 @@
+/Users/tusharjain/Desktop/Hello-World/build/CMakeFiles/rebuild_cache.dir
+/Users/tusharjain/Desktop/Hello-World/build/CMakeFiles/edit_cache.dir
+/Users/tusharjain/Desktop/Hello-World/build/CMakeFiles/glad.dir
+/Users/tusharjain/Desktop/Hello-World/build/CMakeFiles/Hello-World.dir
+/Users/tusharjain/Desktop/Hello-World/build/libraries/glfw/CMakeFiles/rebuild_cache.dir
+/Users/tusharjain/Desktop/Hello-World/build/libraries/glfw/CMakeFiles/edit_cache.dir
+/Users/tusharjain/Desktop/Hello-World/build/libraries/glfw/src/CMakeFiles/rebuild_cache.dir
+/Users/tusharjain/Desktop/Hello-World/build/libraries/glfw/src/CMakeFiles/edit_cache.dir
+/Users/tusharjain/Desktop/Hello-World/build/libraries/glfw/src/CMakeFiles/glfw.dir
