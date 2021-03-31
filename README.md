@@ -1,8 +1,12 @@
 # controls
 
+
 user arrow keys to move your character
+
 avoid green imposter
+
 get green button to kill him
+
 get red button for coins and bombs
 
 enjoy!
