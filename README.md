@@ -1,3 +1,6 @@
+# Installations
+You will need to have glew and cmake
+
 # controls
 
 
