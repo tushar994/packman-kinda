@@ -1,20 +1,30 @@
+# About
+
+This is a game where, in a randomly generated maze, you have to go from point A to point B. However there is a very smart green enemy that knows where you are and uses the shortest path algorithm to find you. You must either reach the destination before the enemy catches you, or kill the enemy before he catches you. You can kill the enemy by pressed a big green button.
+
 # Installations
-You will need to have glew, cmake, glm, 
+You will need to have glew, cmake, and glm on mac.
 
-# controls
+To do it on a mac simply run
+```
+brew install cmake
+brew install glew
+brew install glm
+```
+
+# Controls
 
 
-user arrow keys to move your character
+- Use arrow keys to move your character.
 
-avoid green imposter
+- Avoid green imposter or you will die.
 
-get green button to kill him
+- Get green button to kill the green imposter.
 
-get red button for coins and bombs
+- Get red button for coins and bombs. Collect coins to get points and avoid bombs if you don't want to die.
 
-enjoy!
 
-# how to run
+# How to run
 ```code
 mkdir build
 cd build
@@ -22,3 +32,10 @@ cmake ..
 make
 ./Hello_World
 ```
+
+
+# Screenshots
+
+![](./imgs/s1.png)
+![](./imgs/s2.png)
+![](./imgs/s3.png)
